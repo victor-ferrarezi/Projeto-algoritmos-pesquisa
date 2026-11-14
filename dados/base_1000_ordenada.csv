@@ -1,0 +1,1001 @@
+id_cliente,nome,idade,cidade
+1,Cliente 1,57,Guarulhos
+2,Cliente 2,28,Campinas
+3,Cliente 3,55,São Paulo
+4,Cliente 4,44,Curitiba
+5,Cliente 5,75,Santos
+6,Cliente 6,61,Guarulhos
+7,Cliente 7,36,Curitiba
+8,Cliente 8,38,Curitiba
+9,Cliente 9,60,São Paulo
+10,Cliente 10,35,Santos
+11,Cliente 11,45,Curitiba
+12,Cliente 12,58,Guarulhos
+13,Cliente 13,24,Curitiba
+14,Cliente 14,61,São Paulo
+15,Cliente 15,62,Santos
+16,Cliente 16,36,Campinas
+17,Cliente 17,42,Santos
+18,Cliente 18,54,Curitiba
+19,Cliente 19,68,Santos
+20,Cliente 20,27,Campinas
+21,Cliente 21,79,Curitiba
+22,Cliente 22,29,Santos
+23,Cliente 23,27,São Paulo
+24,Cliente 24,42,Campinas
+25,Cliente 25,65,Guarulhos
+26,Cliente 26,78,Curitiba
+27,Cliente 27,33,São Paulo
+28,Cliente 28,31,Curitiba
+29,Cliente 29,36,Guarulhos
+30,Cliente 30,51,Campinas
+31,Cliente 31,75,São Paulo
+32,Cliente 32,73,Curitiba
+33,Cliente 33,56,São Paulo
+34,Cliente 34,49,Campinas
+35,Cliente 35,41,Curitiba
+36,Cliente 36,20,Guarulhos
+37,Cliente 37,48,São Paulo
+38,Cliente 38,30,Guarulhos
+39,Cliente 39,19,Santos
+40,Cliente 40,45,Guarulhos
+41,Cliente 41,80,Curitiba
+42,Cliente 42,57,Guarulhos
+43,Cliente 43,54,Guarulhos
+44,Cliente 44,50,Guarulhos
+45,Cliente 45,48,São Paulo
+46,Cliente 46,28,Campinas
+47,Cliente 47,65,Campinas
+48,Cliente 48,74,Campinas
+49,Cliente 49,29,São Paulo
+50,Cliente 50,55,Guarulhos
+51,Cliente 51,41,Curitiba
+52,Cliente 52,73,Guarulhos
+53,Cliente 53,66,Campinas
+54,Cliente 54,41,Campinas
+55,Cliente 55,20,Guarulhos
+56,Cliente 56,25,Guarulhos
+57,Cliente 57,28,Guarulhos
+58,Cliente 58,73,São Paulo
+59,Cliente 59,55,São Paulo
+60,Cliente 60,45,Guarulhos
+61,Cliente 61,41,Curitiba
+62,Cliente 62,50,Santos
+63,Cliente 63,50,São Paulo
+64,Cliente 64,21,Santos
+65,Cliente 65,67,Campinas
+66,Cliente 66,35,São Paulo
+67,Cliente 67,45,Curitiba
+68,Cliente 68,26,Curitiba
+69,Cliente 69,41,Guarulhos
+70,Cliente 70,71,São Paulo
+71,Cliente 71,67,Curitiba
+72,Cliente 72,21,Guarulhos
+73,Cliente 73,71,Guarulhos
+74,Cliente 74,61,São Paulo
+75,Cliente 75,79,Curitiba
+76,Cliente 76,28,Guarulhos
+77,Cliente 77,61,Curitiba
+78,Cliente 78,19,Santos
+79,Cliente 79,42,Guarulhos
+80,Cliente 80,51,Guarulhos
+81,Cliente 81,52,Campinas
+82,Cliente 82,61,Curitiba
+83,Cliente 83,66,Guarulhos
+84,Cliente 84,75,São Paulo
+85,Cliente 85,48,Guarulhos
+86,Cliente 86,27,São Paulo
+87,Cliente 87,71,Santos
+88,Cliente 88,46,Santos
+89,Cliente 89,47,Campinas
+90,Cliente 90,68,São Paulo
+91,Cliente 91,79,Guarulhos
+92,Cliente 92,67,Curitiba
+93,Cliente 93,50,Santos
+94,Cliente 94,57,Curitiba
+95,Cliente 95,42,Curitiba
+96,Cliente 96,75,São Paulo
+97,Cliente 97,49,Guarulhos
+98,Cliente 98,56,Santos
+99,Cliente 99,78,Guarulhos
+100,Cliente 100,33,Campinas
+101,Cliente 101,71,Guarulhos
+102,Cliente 102,53,Curitiba
+103,Cliente 103,77,Santos
+104,Cliente 104,69,Curitiba
+105,Cliente 105,66,São Paulo
+106,Cliente 106,20,Guarulhos
+107,Cliente 107,72,São Paulo
+108,Cliente 108,75,Guarulhos
+109,Cliente 109,35,Curitiba
+110,Cliente 110,38,Curitiba
+111,Cliente 111,20,Santos
+112,Cliente 112,59,Guarulhos
+113,Cliente 113,46,Guarulhos
+114,Cliente 114,63,Guarulhos
+115,Cliente 115,24,Guarulhos
+116,Cliente 116,76,São Paulo
+117,Cliente 117,23,Guarulhos
+118,Cliente 118,19,São Paulo
+119,Cliente 119,22,São Paulo
+120,Cliente 120,53,Campinas
+121,Cliente 121,25,São Paulo
+122,Cliente 122,54,Campinas
+123,Cliente 123,28,Curitiba
+124,Cliente 124,64,Curitiba
+125,Cliente 125,78,Curitiba
+126,Cliente 126,30,Santos
+127,Cliente 127,47,Campinas
+128,Cliente 128,66,Curitiba
+129,Cliente 129,42,Campinas
+130,Cliente 130,25,Curitiba
+131,Cliente 131,54,Curitiba
+132,Cliente 132,36,São Paulo
+133,Cliente 133,37,Guarulhos
+134,Cliente 134,39,Curitiba
+135,Cliente 135,28,Curitiba
+136,Cliente 136,51,Santos
+137,Cliente 137,42,São Paulo
+138,Cliente 138,31,Guarulhos
+139,Cliente 139,38,São Paulo
+140,Cliente 140,65,Guarulhos
+141,Cliente 141,63,Guarulhos
+142,Cliente 142,20,Curitiba
+143,Cliente 143,53,Campinas
+144,Cliente 144,41,Santos
+145,Cliente 145,54,Santos
+146,Cliente 146,53,Curitiba
+147,Cliente 147,23,São Paulo
+148,Cliente 148,47,Campinas
+149,Cliente 149,29,São Paulo
+150,Cliente 150,56,Guarulhos
+151,Cliente 151,62,Curitiba
+152,Cliente 152,30,Santos
+153,Cliente 153,50,Guarulhos
+154,Cliente 154,19,São Paulo
+155,Cliente 155,29,Curitiba
+156,Cliente 156,59,Guarulhos
+157,Cliente 157,32,Campinas
+158,Cliente 158,22,São Paulo
+159,Cliente 159,36,São Paulo
+160,Cliente 160,59,São Paulo
+161,Cliente 161,43,Santos
+162,Cliente 162,40,Santos
+163,Cliente 163,42,Santos
+164,Cliente 164,43,Santos
+165,Cliente 165,70,Santos
+166,Cliente 166,23,São Paulo
+167,Cliente 167,43,São Paulo
+168,Cliente 168,50,Guarulhos
+169,Cliente 169,62,São Paulo
+170,Cliente 170,30,São Paulo
+171,Cliente 171,20,Guarulhos
+172,Cliente 172,74,Guarulhos
+173,Cliente 173,42,Guarulhos
+174,Cliente 174,43,Campinas
+175,Cliente 175,19,Santos
+176,Cliente 176,74,Guarulhos
+177,Cliente 177,62,Curitiba
+178,Cliente 178,42,Curitiba
+179,Cliente 179,32,São Paulo
+180,Cliente 180,45,Santos
+181,Cliente 181,55,Santos
+182,Cliente 182,76,São Paulo
+183,Cliente 183,23,Campinas
+184,Cliente 184,76,Santos
+185,Cliente 185,41,Santos
+186,Cliente 186,64,Campinas
+187,Cliente 187,52,Campinas
+188,Cliente 188,42,Curitiba
+189,Cliente 189,21,São Paulo
+190,Cliente 190,71,Curitiba
+191,Cliente 191,71,Campinas
+192,Cliente 192,63,Curitiba
+193,Cliente 193,46,Curitiba
+194,Cliente 194,63,Santos
+195,Cliente 195,43,Campinas
+196,Cliente 196,41,Campinas
+197,Cliente 197,63,Guarulhos
+198,Cliente 198,45,São Paulo
+199,Cliente 199,47,Santos
+200,Cliente 200,67,Curitiba
+201,Cliente 201,64,Santos
+202,Cliente 202,29,Guarulhos
+203,Cliente 203,67,Santos
+204,Cliente 204,67,Curitiba
+205,Cliente 205,62,Guarulhos
+206,Cliente 206,32,Campinas
+207,Cliente 207,19,Curitiba
+208,Cliente 208,32,Campinas
+209,Cliente 209,34,Guarulhos
+210,Cliente 210,79,Santos
+211,Cliente 211,70,Santos
+212,Cliente 212,37,Santos
+213,Cliente 213,44,Guarulhos
+214,Cliente 214,30,São Paulo
+215,Cliente 215,57,Campinas
+216,Cliente 216,68,Curitiba
+217,Cliente 217,41,Campinas
+218,Cliente 218,73,São Paulo
+219,Cliente 219,62,Campinas
+220,Cliente 220,37,Guarulhos
+221,Cliente 221,72,Guarulhos
+222,Cliente 222,64,Santos
+223,Cliente 223,25,Guarulhos
+224,Cliente 224,42,São Paulo
+225,Cliente 225,66,Curitiba
+226,Cliente 226,28,Guarulhos
+227,Cliente 227,44,Curitiba
+228,Cliente 228,20,Santos
+229,Cliente 229,48,Curitiba
+230,Cliente 230,61,Curitiba
+231,Cliente 231,53,Guarulhos
+232,Cliente 232,74,Campinas
+233,Cliente 233,53,Campinas
+234,Cliente 234,66,Campinas
+235,Cliente 235,47,Guarulhos
+236,Cliente 236,33,Curitiba
+237,Cliente 237,46,Curitiba
+238,Cliente 238,74,Campinas
+239,Cliente 239,39,Curitiba
+240,Cliente 240,55,Campinas
+241,Cliente 241,57,Curitiba
+242,Cliente 242,63,Curitiba
+243,Cliente 243,18,Campinas
+244,Cliente 244,50,Santos
+245,Cliente 245,37,Santos
+246,Cliente 246,24,Guarulhos
+247,Cliente 247,52,São Paulo
+248,Cliente 248,60,São Paulo
+249,Cliente 249,26,Curitiba
+250,Cliente 250,41,Santos
+251,Cliente 251,24,Curitiba
+252,Cliente 252,29,Campinas
+253,Cliente 253,40,São Paulo
+254,Cliente 254,57,Campinas
+255,Cliente 255,69,Campinas
+256,Cliente 256,71,Guarulhos
+257,Cliente 257,24,Guarulhos
+258,Cliente 258,18,Curitiba
+259,Cliente 259,79,Santos
+260,Cliente 260,67,Santos
+261,Cliente 261,51,Curitiba
+262,Cliente 262,62,Curitiba
+263,Cliente 263,54,Guarulhos
+264,Cliente 264,37,Santos
+265,Cliente 265,64,Santos
+266,Cliente 266,18,Campinas
+267,Cliente 267,40,Santos
+268,Cliente 268,73,São Paulo
+269,Cliente 269,59,Santos
+270,Cliente 270,37,Campinas
+271,Cliente 271,48,São Paulo
+272,Cliente 272,39,Santos
+273,Cliente 273,55,Santos
+274,Cliente 274,75,Santos
+275,Cliente 275,57,Curitiba
+276,Cliente 276,59,Santos
+277,Cliente 277,71,Guarulhos
+278,Cliente 278,28,Campinas
+279,Cliente 279,25,Campinas
+280,Cliente 280,35,Guarulhos
+281,Cliente 281,32,Santos
+282,Cliente 282,30,Santos
+283,Cliente 283,68,São Paulo
+284,Cliente 284,74,São Paulo
+285,Cliente 285,40,São Paulo
+286,Cliente 286,36,Guarulhos
+287,Cliente 287,33,Curitiba
+288,Cliente 288,21,São Paulo
+289,Cliente 289,50,Curitiba
+290,Cliente 290,67,Santos
+291,Cliente 291,65,Santos
+292,Cliente 292,50,Campinas
+293,Cliente 293,45,Campinas
+294,Cliente 294,67,Guarulhos
+295,Cliente 295,55,Campinas
+296,Cliente 296,63,Santos
+297,Cliente 297,70,Curitiba
+298,Cliente 298,53,Santos
+299,Cliente 299,25,Curitiba
+300,Cliente 300,39,Guarulhos
+301,Cliente 301,56,São Paulo
+302,Cliente 302,31,Curitiba
+303,Cliente 303,43,Curitiba
+304,Cliente 304,27,São Paulo
+305,Cliente 305,20,Guarulhos
+306,Cliente 306,73,Curitiba
+307,Cliente 307,76,Santos
+308,Cliente 308,70,Santos
+309,Cliente 309,30,Guarulhos
+310,Cliente 310,41,São Paulo
+311,Cliente 311,20,São Paulo
+312,Cliente 312,34,São Paulo
+313,Cliente 313,80,Campinas
+314,Cliente 314,32,Curitiba
+315,Cliente 315,42,Guarulhos
+316,Cliente 316,48,Curitiba
+317,Cliente 317,18,Curitiba
+318,Cliente 318,77,Guarulhos
+319,Cliente 319,29,Curitiba
+320,Cliente 320,39,Santos
+321,Cliente 321,44,Campinas
+322,Cliente 322,29,Curitiba
+323,Cliente 323,42,Campinas
+324,Cliente 324,30,São Paulo
+325,Cliente 325,29,Guarulhos
+326,Cliente 326,69,Guarulhos
+327,Cliente 327,33,São Paulo
+328,Cliente 328,79,Campinas
+329,Cliente 329,39,Campinas
+330,Cliente 330,75,São Paulo
+331,Cliente 331,33,Campinas
+332,Cliente 332,59,São Paulo
+333,Cliente 333,32,Guarulhos
+334,Cliente 334,48,Campinas
+335,Cliente 335,28,Campinas
+336,Cliente 336,36,Santos
+337,Cliente 337,39,Campinas
+338,Cliente 338,80,Campinas
+339,Cliente 339,35,Curitiba
+340,Cliente 340,72,Guarulhos
+341,Cliente 341,51,São Paulo
+342,Cliente 342,68,Guarulhos
+343,Cliente 343,50,Guarulhos
+344,Cliente 344,35,Campinas
+345,Cliente 345,67,São Paulo
+346,Cliente 346,34,Curitiba
+347,Cliente 347,24,São Paulo
+348,Cliente 348,29,Curitiba
+349,Cliente 349,66,Campinas
+350,Cliente 350,48,Campinas
+351,Cliente 351,31,Campinas
+352,Cliente 352,35,Campinas
+353,Cliente 353,73,Campinas
+354,Cliente 354,68,Campinas
+355,Cliente 355,37,Campinas
+356,Cliente 356,64,São Paulo
+357,Cliente 357,76,Campinas
+358,Cliente 358,43,Guarulhos
+359,Cliente 359,35,Curitiba
+360,Cliente 360,22,Santos
+361,Cliente 361,74,Guarulhos
+362,Cliente 362,76,Guarulhos
+363,Cliente 363,62,Campinas
+364,Cliente 364,19,Campinas
+365,Cliente 365,20,Guarulhos
+366,Cliente 366,29,Curitiba
+367,Cliente 367,60,Guarulhos
+368,Cliente 368,43,Santos
+369,Cliente 369,47,Campinas
+370,Cliente 370,58,São Paulo
+371,Cliente 371,59,Guarulhos
+372,Cliente 372,59,Santos
+373,Cliente 373,50,Guarulhos
+374,Cliente 374,27,Santos
+375,Cliente 375,55,Santos
+376,Cliente 376,28,Guarulhos
+377,Cliente 377,57,Campinas
+378,Cliente 378,50,Guarulhos
+379,Cliente 379,80,Guarulhos
+380,Cliente 380,31,São Paulo
+381,Cliente 381,50,Curitiba
+382,Cliente 382,50,Campinas
+383,Cliente 383,68,Curitiba
+384,Cliente 384,51,Santos
+385,Cliente 385,78,Santos
+386,Cliente 386,24,Guarulhos
+387,Cliente 387,30,Guarulhos
+388,Cliente 388,59,Campinas
+389,Cliente 389,44,Santos
+390,Cliente 390,76,Curitiba
+391,Cliente 391,57,Curitiba
+392,Cliente 392,40,Santos
+393,Cliente 393,29,São Paulo
+394,Cliente 394,72,Curitiba
+395,Cliente 395,80,Campinas
+396,Cliente 396,52,Santos
+397,Cliente 397,78,Curitiba
+398,Cliente 398,64,Campinas
+399,Cliente 399,33,Guarulhos
+400,Cliente 400,42,Guarulhos
+401,Cliente 401,63,Curitiba
+402,Cliente 402,43,Guarulhos
+403,Cliente 403,32,Curitiba
+404,Cliente 404,79,Curitiba
+405,Cliente 405,31,Santos
+406,Cliente 406,37,Campinas
+407,Cliente 407,21,Santos
+408,Cliente 408,19,Guarulhos
+409,Cliente 409,63,Santos
+410,Cliente 410,18,Guarulhos
+411,Cliente 411,49,Guarulhos
+412,Cliente 412,34,São Paulo
+413,Cliente 413,75,Guarulhos
+414,Cliente 414,66,Curitiba
+415,Cliente 415,51,Santos
+416,Cliente 416,68,Campinas
+417,Cliente 417,53,Campinas
+418,Cliente 418,77,São Paulo
+419,Cliente 419,62,Santos
+420,Cliente 420,77,São Paulo
+421,Cliente 421,62,Curitiba
+422,Cliente 422,32,Guarulhos
+423,Cliente 423,60,Santos
+424,Cliente 424,67,Curitiba
+425,Cliente 425,64,São Paulo
+426,Cliente 426,44,Campinas
+427,Cliente 427,68,Campinas
+428,Cliente 428,28,Campinas
+429,Cliente 429,60,Santos
+430,Cliente 430,52,São Paulo
+431,Cliente 431,54,São Paulo
+432,Cliente 432,47,Santos
+433,Cliente 433,75,Santos
+434,Cliente 434,43,Guarulhos
+435,Cliente 435,80,Guarulhos
+436,Cliente 436,27,Santos
+437,Cliente 437,40,Curitiba
+438,Cliente 438,33,Campinas
+439,Cliente 439,41,Santos
+440,Cliente 440,53,Campinas
+441,Cliente 441,75,Guarulhos
+442,Cliente 442,55,Santos
+443,Cliente 443,67,Curitiba
+444,Cliente 444,61,São Paulo
+445,Cliente 445,52,São Paulo
+446,Cliente 446,19,Campinas
+447,Cliente 447,60,Campinas
+448,Cliente 448,34,Curitiba
+449,Cliente 449,48,Santos
+450,Cliente 450,29,Curitiba
+451,Cliente 451,72,Campinas
+452,Cliente 452,20,Curitiba
+453,Cliente 453,55,Curitiba
+454,Cliente 454,46,Curitiba
+455,Cliente 455,78,Santos
+456,Cliente 456,49,São Paulo
+457,Cliente 457,65,São Paulo
+458,Cliente 458,79,São Paulo
+459,Cliente 459,68,Guarulhos
+460,Cliente 460,50,São Paulo
+461,Cliente 461,56,Santos
+462,Cliente 462,34,Campinas
+463,Cliente 463,44,Campinas
+464,Cliente 464,80,Guarulhos
+465,Cliente 465,76,Curitiba
+466,Cliente 466,42,Guarulhos
+467,Cliente 467,33,Santos
+468,Cliente 468,52,Guarulhos
+469,Cliente 469,36,Santos
+470,Cliente 470,66,São Paulo
+471,Cliente 471,51,Santos
+472,Cliente 472,66,São Paulo
+473,Cliente 473,39,Santos
+474,Cliente 474,64,Curitiba
+475,Cliente 475,40,São Paulo
+476,Cliente 476,20,Campinas
+477,Cliente 477,49,Curitiba
+478,Cliente 478,77,São Paulo
+479,Cliente 479,40,São Paulo
+480,Cliente 480,75,Curitiba
+481,Cliente 481,64,Guarulhos
+482,Cliente 482,74,São Paulo
+483,Cliente 483,74,Santos
+484,Cliente 484,43,Campinas
+485,Cliente 485,40,Santos
+486,Cliente 486,35,São Paulo
+487,Cliente 487,62,Santos
+488,Cliente 488,78,Santos
+489,Cliente 489,38,Guarulhos
+490,Cliente 490,50,Santos
+491,Cliente 491,50,Campinas
+492,Cliente 492,63,Campinas
+493,Cliente 493,56,Santos
+494,Cliente 494,39,Guarulhos
+495,Cliente 495,34,Curitiba
+496,Cliente 496,48,Curitiba
+497,Cliente 497,79,Curitiba
+498,Cliente 498,38,Guarulhos
+499,Cliente 499,80,Curitiba
+500,Cliente 500,79,São Paulo
+501,Cliente 501,37,Campinas
+502,Cliente 502,39,Campinas
+503,Cliente 503,77,Campinas
+504,Cliente 504,28,Guarulhos
+505,Cliente 505,30,Curitiba
+506,Cliente 506,53,Guarulhos
+507,Cliente 507,51,Campinas
+508,Cliente 508,18,Campinas
+509,Cliente 509,69,Santos
+510,Cliente 510,75,Curitiba
+511,Cliente 511,35,São Paulo
+512,Cliente 512,20,Guarulhos
+513,Cliente 513,31,Curitiba
+514,Cliente 514,29,Campinas
+515,Cliente 515,61,São Paulo
+516,Cliente 516,57,Santos
+517,Cliente 517,78,Guarulhos
+518,Cliente 518,22,Campinas
+519,Cliente 519,63,Campinas
+520,Cliente 520,34,Curitiba
+521,Cliente 521,22,Santos
+522,Cliente 522,75,Santos
+523,Cliente 523,45,Guarulhos
+524,Cliente 524,27,Santos
+525,Cliente 525,24,Curitiba
+526,Cliente 526,56,São Paulo
+527,Cliente 527,57,São Paulo
+528,Cliente 528,78,Santos
+529,Cliente 529,68,São Paulo
+530,Cliente 530,54,Guarulhos
+531,Cliente 531,43,Campinas
+532,Cliente 532,78,Campinas
+533,Cliente 533,74,Curitiba
+534,Cliente 534,19,Campinas
+535,Cliente 535,51,Campinas
+536,Cliente 536,68,Santos
+537,Cliente 537,66,Santos
+538,Cliente 538,46,Campinas
+539,Cliente 539,35,Santos
+540,Cliente 540,77,Santos
+541,Cliente 541,68,Curitiba
+542,Cliente 542,49,Santos
+543,Cliente 543,52,São Paulo
+544,Cliente 544,52,Campinas
+545,Cliente 545,80,Campinas
+546,Cliente 546,49,Santos
+547,Cliente 547,21,Santos
+548,Cliente 548,55,Campinas
+549,Cliente 549,69,Curitiba
+550,Cliente 550,53,Santos
+551,Cliente 551,44,Guarulhos
+552,Cliente 552,44,Curitiba
+553,Cliente 553,32,São Paulo
+554,Cliente 554,44,Curitiba
+555,Cliente 555,37,São Paulo
+556,Cliente 556,48,Guarulhos
+557,Cliente 557,45,Curitiba
+558,Cliente 558,19,São Paulo
+559,Cliente 559,33,Santos
+560,Cliente 560,70,São Paulo
+561,Cliente 561,46,Campinas
+562,Cliente 562,22,Guarulhos
+563,Cliente 563,55,Santos
+564,Cliente 564,22,Campinas
+565,Cliente 565,67,Campinas
+566,Cliente 566,28,Guarulhos
+567,Cliente 567,48,Santos
+568,Cliente 568,55,Campinas
+569,Cliente 569,49,Curitiba
+570,Cliente 570,28,Guarulhos
+571,Cliente 571,24,Campinas
+572,Cliente 572,22,São Paulo
+573,Cliente 573,21,Guarulhos
+574,Cliente 574,26,Campinas
+575,Cliente 575,77,Campinas
+576,Cliente 576,22,Campinas
+577,Cliente 577,62,Curitiba
+578,Cliente 578,76,Curitiba
+579,Cliente 579,80,São Paulo
+580,Cliente 580,66,Guarulhos
+581,Cliente 581,55,Curitiba
+582,Cliente 582,23,Campinas
+583,Cliente 583,65,Curitiba
+584,Cliente 584,20,Curitiba
+585,Cliente 585,70,Guarulhos
+586,Cliente 586,57,Santos
+587,Cliente 587,45,Guarulhos
+588,Cliente 588,37,São Paulo
+589,Cliente 589,34,Campinas
+590,Cliente 590,29,Curitiba
+591,Cliente 591,79,Guarulhos
+592,Cliente 592,59,Santos
+593,Cliente 593,78,Curitiba
+594,Cliente 594,28,Campinas
+595,Cliente 595,67,Guarulhos
+596,Cliente 596,54,São Paulo
+597,Cliente 597,74,São Paulo
+598,Cliente 598,69,Guarulhos
+599,Cliente 599,48,Santos
+600,Cliente 600,56,Santos
+601,Cliente 601,27,Santos
+602,Cliente 602,40,Campinas
+603,Cliente 603,57,Curitiba
+604,Cliente 604,31,Santos
+605,Cliente 605,80,Campinas
+606,Cliente 606,26,Guarulhos
+607,Cliente 607,53,Campinas
+608,Cliente 608,76,Curitiba
+609,Cliente 609,80,Curitiba
+610,Cliente 610,45,São Paulo
+611,Cliente 611,47,Guarulhos
+612,Cliente 612,44,Curitiba
+613,Cliente 613,31,Guarulhos
+614,Cliente 614,61,Curitiba
+615,Cliente 615,67,Guarulhos
+616,Cliente 616,29,Campinas
+617,Cliente 617,36,São Paulo
+618,Cliente 618,49,São Paulo
+619,Cliente 619,21,Santos
+620,Cliente 620,32,Guarulhos
+621,Cliente 621,20,Campinas
+622,Cliente 622,47,Curitiba
+623,Cliente 623,42,Guarulhos
+624,Cliente 624,19,São Paulo
+625,Cliente 625,31,Guarulhos
+626,Cliente 626,33,Guarulhos
+627,Cliente 627,38,Guarulhos
+628,Cliente 628,66,São Paulo
+629,Cliente 629,72,Curitiba
+630,Cliente 630,55,São Paulo
+631,Cliente 631,76,São Paulo
+632,Cliente 632,72,Campinas
+633,Cliente 633,56,São Paulo
+634,Cliente 634,35,Guarulhos
+635,Cliente 635,41,São Paulo
+636,Cliente 636,48,Campinas
+637,Cliente 637,27,Santos
+638,Cliente 638,37,Curitiba
+639,Cliente 639,33,Santos
+640,Cliente 640,38,São Paulo
+641,Cliente 641,60,São Paulo
+642,Cliente 642,58,Guarulhos
+643,Cliente 643,61,Campinas
+644,Cliente 644,45,São Paulo
+645,Cliente 645,50,Curitiba
+646,Cliente 646,26,Curitiba
+647,Cliente 647,39,Guarulhos
+648,Cliente 648,59,Santos
+649,Cliente 649,29,Campinas
+650,Cliente 650,76,São Paulo
+651,Cliente 651,19,Guarulhos
+652,Cliente 652,75,Campinas
+653,Cliente 653,25,Campinas
+654,Cliente 654,22,São Paulo
+655,Cliente 655,60,São Paulo
+656,Cliente 656,30,Campinas
+657,Cliente 657,52,Guarulhos
+658,Cliente 658,18,Santos
+659,Cliente 659,26,Santos
+660,Cliente 660,30,Santos
+661,Cliente 661,52,Campinas
+662,Cliente 662,19,Guarulhos
+663,Cliente 663,20,Santos
+664,Cliente 664,75,São Paulo
+665,Cliente 665,36,Guarulhos
+666,Cliente 666,57,Campinas
+667,Cliente 667,32,São Paulo
+668,Cliente 668,39,Campinas
+669,Cliente 669,76,Guarulhos
+670,Cliente 670,58,Curitiba
+671,Cliente 671,32,Curitiba
+672,Cliente 672,18,São Paulo
+673,Cliente 673,54,Santos
+674,Cliente 674,25,São Paulo
+675,Cliente 675,19,Santos
+676,Cliente 676,23,Guarulhos
+677,Cliente 677,53,Campinas
+678,Cliente 678,33,Santos
+679,Cliente 679,46,Santos
+680,Cliente 680,41,Curitiba
+681,Cliente 681,20,São Paulo
+682,Cliente 682,54,Santos
+683,Cliente 683,65,Santos
+684,Cliente 684,75,Curitiba
+685,Cliente 685,20,Campinas
+686,Cliente 686,26,Santos
+687,Cliente 687,70,Campinas
+688,Cliente 688,55,Campinas
+689,Cliente 689,34,Campinas
+690,Cliente 690,38,Curitiba
+691,Cliente 691,32,Santos
+692,Cliente 692,61,Guarulhos
+693,Cliente 693,56,Guarulhos
+694,Cliente 694,41,Curitiba
+695,Cliente 695,38,Curitiba
+696,Cliente 696,28,Campinas
+697,Cliente 697,24,Santos
+698,Cliente 698,51,São Paulo
+699,Cliente 699,60,São Paulo
+700,Cliente 700,53,Campinas
+701,Cliente 701,48,Santos
+702,Cliente 702,45,Campinas
+703,Cliente 703,36,Santos
+704,Cliente 704,78,Campinas
+705,Cliente 705,37,Guarulhos
+706,Cliente 706,29,Curitiba
+707,Cliente 707,64,Curitiba
+708,Cliente 708,29,Guarulhos
+709,Cliente 709,38,São Paulo
+710,Cliente 710,72,Santos
+711,Cliente 711,33,Guarulhos
+712,Cliente 712,58,Curitiba
+713,Cliente 713,63,Santos
+714,Cliente 714,28,Curitiba
+715,Cliente 715,25,Curitiba
+716,Cliente 716,39,Campinas
+717,Cliente 717,70,Guarulhos
+718,Cliente 718,33,Curitiba
+719,Cliente 719,38,São Paulo
+720,Cliente 720,34,Curitiba
+721,Cliente 721,76,Campinas
+722,Cliente 722,48,Guarulhos
+723,Cliente 723,60,Santos
+724,Cliente 724,71,Guarulhos
+725,Cliente 725,46,Campinas
+726,Cliente 726,75,Curitiba
+727,Cliente 727,68,Guarulhos
+728,Cliente 728,18,Santos
+729,Cliente 729,72,Campinas
+730,Cliente 730,67,Campinas
+731,Cliente 731,77,São Paulo
+732,Cliente 732,58,Campinas
+733,Cliente 733,31,Curitiba
+734,Cliente 734,77,Santos
+735,Cliente 735,18,Guarulhos
+736,Cliente 736,41,Guarulhos
+737,Cliente 737,79,Curitiba
+738,Cliente 738,27,Curitiba
+739,Cliente 739,74,São Paulo
+740,Cliente 740,77,São Paulo
+741,Cliente 741,33,São Paulo
+742,Cliente 742,49,São Paulo
+743,Cliente 743,32,Guarulhos
+744,Cliente 744,45,Curitiba
+745,Cliente 745,22,São Paulo
+746,Cliente 746,45,Guarulhos
+747,Cliente 747,77,Santos
+748,Cliente 748,63,Guarulhos
+749,Cliente 749,57,Curitiba
+750,Cliente 750,25,Curitiba
+751,Cliente 751,73,Santos
+752,Cliente 752,76,Curitiba
+753,Cliente 753,68,Guarulhos
+754,Cliente 754,58,Curitiba
+755,Cliente 755,34,Santos
+756,Cliente 756,18,Guarulhos
+757,Cliente 757,79,Guarulhos
+758,Cliente 758,28,Guarulhos
+759,Cliente 759,50,Guarulhos
+760,Cliente 760,49,Guarulhos
+761,Cliente 761,60,São Paulo
+762,Cliente 762,29,Santos
+763,Cliente 763,22,Santos
+764,Cliente 764,54,Campinas
+765,Cliente 765,67,São Paulo
+766,Cliente 766,58,Santos
+767,Cliente 767,27,Curitiba
+768,Cliente 768,65,Curitiba
+769,Cliente 769,71,São Paulo
+770,Cliente 770,39,Curitiba
+771,Cliente 771,45,Guarulhos
+772,Cliente 772,64,Guarulhos
+773,Cliente 773,55,Santos
+774,Cliente 774,76,Curitiba
+775,Cliente 775,46,Curitiba
+776,Cliente 776,62,Guarulhos
+777,Cliente 777,71,Campinas
+778,Cliente 778,45,Campinas
+779,Cliente 779,23,Santos
+780,Cliente 780,45,Santos
+781,Cliente 781,80,Guarulhos
+782,Cliente 782,70,Curitiba
+783,Cliente 783,71,São Paulo
+784,Cliente 784,53,Guarulhos
+785,Cliente 785,33,Curitiba
+786,Cliente 786,77,Guarulhos
+787,Cliente 787,41,Curitiba
+788,Cliente 788,79,Curitiba
+789,Cliente 789,21,Campinas
+790,Cliente 790,76,Santos
+791,Cliente 791,72,Curitiba
+792,Cliente 792,56,Campinas
+793,Cliente 793,36,Curitiba
+794,Cliente 794,75,Curitiba
+795,Cliente 795,25,Campinas
+796,Cliente 796,28,Campinas
+797,Cliente 797,32,Curitiba
+798,Cliente 798,70,Campinas
+799,Cliente 799,39,São Paulo
+800,Cliente 800,41,Campinas
+801,Cliente 801,65,São Paulo
+802,Cliente 802,68,Campinas
+803,Cliente 803,64,Campinas
+804,Cliente 804,53,Santos
+805,Cliente 805,76,Campinas
+806,Cliente 806,40,Campinas
+807,Cliente 807,62,Santos
+808,Cliente 808,30,Campinas
+809,Cliente 809,59,Santos
+810,Cliente 810,70,Guarulhos
+811,Cliente 811,79,Campinas
+812,Cliente 812,30,Guarulhos
+813,Cliente 813,49,Guarulhos
+814,Cliente 814,47,Curitiba
+815,Cliente 815,74,Campinas
+816,Cliente 816,28,Campinas
+817,Cliente 817,32,São Paulo
+818,Cliente 818,65,Curitiba
+819,Cliente 819,21,Guarulhos
+820,Cliente 820,48,Campinas
+821,Cliente 821,41,São Paulo
+822,Cliente 822,26,Santos
+823,Cliente 823,43,Guarulhos
+824,Cliente 824,19,Guarulhos
+825,Cliente 825,60,Guarulhos
+826,Cliente 826,36,Guarulhos
+827,Cliente 827,71,São Paulo
+828,Cliente 828,35,Santos
+829,Cliente 829,77,Guarulhos
+830,Cliente 830,64,Guarulhos
+831,Cliente 831,62,Campinas
+832,Cliente 832,24,Curitiba
+833,Cliente 833,20,Campinas
+834,Cliente 834,69,Guarulhos
+835,Cliente 835,37,Campinas
+836,Cliente 836,41,Curitiba
+837,Cliente 837,43,Santos
+838,Cliente 838,53,Guarulhos
+839,Cliente 839,35,Guarulhos
+840,Cliente 840,48,São Paulo
+841,Cliente 841,74,Campinas
+842,Cliente 842,26,Curitiba
+843,Cliente 843,70,Guarulhos
+844,Cliente 844,57,Guarulhos
+845,Cliente 845,19,Santos
+846,Cliente 846,60,Guarulhos
+847,Cliente 847,49,São Paulo
+848,Cliente 848,20,Curitiba
+849,Cliente 849,33,São Paulo
+850,Cliente 850,58,Santos
+851,Cliente 851,59,Curitiba
+852,Cliente 852,31,Campinas
+853,Cliente 853,50,Curitiba
+854,Cliente 854,49,Campinas
+855,Cliente 855,76,Santos
+856,Cliente 856,35,Santos
+857,Cliente 857,54,Curitiba
+858,Cliente 858,79,Curitiba
+859,Cliente 859,72,São Paulo
+860,Cliente 860,35,São Paulo
+861,Cliente 861,63,São Paulo
+862,Cliente 862,40,Campinas
+863,Cliente 863,75,Santos
+864,Cliente 864,30,Guarulhos
+865,Cliente 865,18,Guarulhos
+866,Cliente 866,74,Campinas
+867,Cliente 867,54,Guarulhos
+868,Cliente 868,34,Curitiba
+869,Cliente 869,73,Guarulhos
+870,Cliente 870,57,Guarulhos
+871,Cliente 871,79,São Paulo
+872,Cliente 872,58,Santos
+873,Cliente 873,78,São Paulo
+874,Cliente 874,71,São Paulo
+875,Cliente 875,26,Santos
+876,Cliente 876,23,Guarulhos
+877,Cliente 877,77,Santos
+878,Cliente 878,39,Santos
+879,Cliente 879,46,Guarulhos
+880,Cliente 880,72,Santos
+881,Cliente 881,32,Campinas
+882,Cliente 882,29,Curitiba
+883,Cliente 883,24,Curitiba
+884,Cliente 884,57,Campinas
+885,Cliente 885,58,Campinas
+886,Cliente 886,30,Guarulhos
+887,Cliente 887,66,Campinas
+888,Cliente 888,53,Campinas
+889,Cliente 889,62,Santos
+890,Cliente 890,32,Campinas
+891,Cliente 891,68,Campinas
+892,Cliente 892,55,Campinas
+893,Cliente 893,59,Santos
+894,Cliente 894,80,Guarulhos
+895,Cliente 895,33,Curitiba
+896,Cliente 896,64,Guarulhos
+897,Cliente 897,46,Santos
+898,Cliente 898,80,Curitiba
+899,Cliente 899,40,São Paulo
+900,Cliente 900,20,Curitiba
+901,Cliente 901,33,São Paulo
+902,Cliente 902,76,Guarulhos
+903,Cliente 903,77,São Paulo
+904,Cliente 904,69,Campinas
+905,Cliente 905,79,Guarulhos
+906,Cliente 906,74,Campinas
+907,Cliente 907,72,Santos
+908,Cliente 908,80,Campinas
+909,Cliente 909,68,Santos
+910,Cliente 910,50,Santos
+911,Cliente 911,40,Campinas
+912,Cliente 912,33,Santos
+913,Cliente 913,55,Santos
+914,Cliente 914,24,Santos
+915,Cliente 915,31,São Paulo
+916,Cliente 916,50,Campinas
+917,Cliente 917,31,Santos
+918,Cliente 918,38,Santos
+919,Cliente 919,65,São Paulo
+920,Cliente 920,72,Campinas
+921,Cliente 921,36,Campinas
+922,Cliente 922,64,Campinas
+923,Cliente 923,60,São Paulo
+924,Cliente 924,41,Campinas
+925,Cliente 925,42,Campinas
+926,Cliente 926,33,Campinas
+927,Cliente 927,61,Guarulhos
+928,Cliente 928,44,Campinas
+929,Cliente 929,78,Campinas
+930,Cliente 930,77,São Paulo
+931,Cliente 931,37,Santos
+932,Cliente 932,48,Campinas
+933,Cliente 933,80,Santos
+934,Cliente 934,55,Curitiba
+935,Cliente 935,29,Curitiba
+936,Cliente 936,61,Santos
+937,Cliente 937,50,Santos
+938,Cliente 938,30,São Paulo
+939,Cliente 939,26,Curitiba
+940,Cliente 940,57,Santos
+941,Cliente 941,49,Curitiba
+942,Cliente 942,41,Campinas
+943,Cliente 943,59,Guarulhos
+944,Cliente 944,61,Curitiba
+945,Cliente 945,79,São Paulo
+946,Cliente 946,60,São Paulo
+947,Cliente 947,42,Curitiba
+948,Cliente 948,34,São Paulo
+949,Cliente 949,76,Santos
+950,Cliente 950,37,São Paulo
+951,Cliente 951,52,Guarulhos
+952,Cliente 952,24,Santos
+953,Cliente 953,39,Santos
+954,Cliente 954,58,Santos
+955,Cliente 955,70,Curitiba
+956,Cliente 956,62,Curitiba
+957,Cliente 957,35,Santos
+958,Cliente 958,55,Santos
+959,Cliente 959,30,Campinas
+960,Cliente 960,66,Guarulhos
+961,Cliente 961,46,São Paulo
+962,Cliente 962,73,São Paulo
+963,Cliente 963,55,São Paulo
+964,Cliente 964,51,Santos
+965,Cliente 965,78,Guarulhos
+966,Cliente 966,69,Campinas
+967,Cliente 967,36,São Paulo
+968,Cliente 968,28,Campinas
+969,Cliente 969,64,Curitiba
+970,Cliente 970,60,Guarulhos
+971,Cliente 971,73,Santos
+972,Cliente 972,22,Guarulhos
+973,Cliente 973,44,São Paulo
+974,Cliente 974,67,Santos
+975,Cliente 975,20,São Paulo
+976,Cliente 976,27,Curitiba
+977,Cliente 977,60,Guarulhos
+978,Cliente 978,70,Curitiba
+979,Cliente 979,40,Curitiba
+980,Cliente 980,28,Santos
+981,Cliente 981,22,São Paulo
+982,Cliente 982,36,Santos
+983,Cliente 983,75,Campinas
+984,Cliente 984,68,Santos
+985,Cliente 985,32,São Paulo
+986,Cliente 986,54,Curitiba
+987,Cliente 987,65,Santos
+988,Cliente 988,52,Campinas
+989,Cliente 989,43,Curitiba
+990,Cliente 990,40,Curitiba
+991,Cliente 991,31,Guarulhos
+992,Cliente 992,38,Curitiba
+993,Cliente 993,33,Guarulhos
+994,Cliente 994,18,São Paulo
+995,Cliente 995,29,Guarulhos
+996,Cliente 996,67,Campinas
+997,Cliente 997,23,Curitiba
+998,Cliente 998,37,São Paulo
+999,Cliente 999,55,Campinas
+1000,Cliente 1000,37,São Paulo

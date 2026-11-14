@@ -1,0 +1,25 @@
+RESUMO DOS EXPERIMENTOS — ANÁLISE DE ALGORITMOS
+Resultados registrados nos arquivos CSV desta pasta.
+
+1. BUSCAS — base de 10.000 registros, chave fora da base, vetor ordenado
+   sequencial           | comparações: 10000 | tempo médio: 1966.7 ns | encontrado: false
+   sequencial_recursiva | comparações: 10000 | tempo médio: 2500.0 ns | encontrado: false
+   binaria              | comparações: 13 | tempo médio: 166.7 ns | encontrado: false
+   binaria_recursiva    | comparações: 13 | tempo médio: 100.0 ns | encontrado: false
+
+2. ORDENAÇÃO — base de 10.000 registros, entrada aleatória
+   Menor tempo mediano observado: quick — 0.607 ms.
+   Casos de ordenação quadrática não executados devido ao custo estimado: 0.
+   Os casos não executados não receberam tempos fictícios; os campos aparecem como NaN nos arquivos CSV.
+
+3. PONTO DE EQUILÍBRIO — sistema com várias consultas
+   Número estimado de consultas para compensar o tempo de ordenação: 375.9.
+
+4. ARQUIVOS CRIADOS
+   - resultados_busca.csv
+   - resultados_insercao.csv
+   - resultados_insercao_continua.csv
+   - resultados_muitas_consultas.csv
+   - resultados_ordenacao.csv
+   - resultados_ponto_equilibrio.csv
+   - resultados_remocao.csv

@@ -1,0 +1,10 @@
+insercoes,estrategia,reps,tempo_medio_ms,tempo_mediana_ms,desvio_ms
+100,manter_ordenada_a_cada_insercao,3,1.874,0.797,1.951
+100,ordenar_a_cada_100_insercoes,3,0.152,0.071,0.144
+100,ordenar_ao_final,3,0.070,0.068,0.006
+500,manter_ordenada_a_cada_insercao,3,3.805,3.730,0.167
+500,ordenar_a_cada_100_insercoes,3,0.347,0.340,0.015
+500,ordenar_ao_final,3,0.240,0.233,0.018
+1000,manter_ordenada_a_cada_insercao,3,7.609,7.651,0.155
+1000,ordenar_a_cada_100_insercoes,3,0.182,0.171,0.026
+1000,ordenar_ao_final,3,0.219,0.224,0.015
