@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.Set;
 
-// Lê as bases e cria uma cópia ordenada e outra embaralhada.
+// le as bases e cria uma cópia ordenada e outra embaralhada
 public final class PrepararDadosService {
     public static final int[] SIZES = {1_000, 10_000};
 
@@ -30,7 +30,7 @@ public final class PrepararDadosService {
             Path source = findSource(dataDirectory, size);
             PreparedData prepared = readAndValidate(source, size);
 
-            //ordenação usa o ID e mantém os outros dados da linha juntos.
+            // ordenação usa o ID e mantém os outros dados da linha juntos
             Row[] orderedRows = prepared.rows().toArray(new Row[0]);
             mergeSortRows(orderedRows, new Row[orderedRows.length], 0, orderedRows.length - 1);
 

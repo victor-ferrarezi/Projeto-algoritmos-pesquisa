@@ -7,7 +7,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.Scanner;
 
-// Exibe o menu e lê a opção escolhida.
+// exibe o menu e lê a opção escolhida
 public final class ConsoleMenu {
     private final Path project = Path.of(".").toAbsolutePath().normalize();
     private final Path data = project.resolve("dados");

@@ -9,7 +9,7 @@ import com.algoritmos.domain.SearchAlgoritmo;
 import com.algoritmos.domain.SortAlgoritmo;
 import java.util.List;
 
-// Lista os algoritmos usados nos testes.
+// lista os algoritmos usados nos testes
 public final class AlgoritmoCatalogo {
     private AlgoritmoCatalogo() {}
     public static List<SearchAlgoritmo> buscas() {

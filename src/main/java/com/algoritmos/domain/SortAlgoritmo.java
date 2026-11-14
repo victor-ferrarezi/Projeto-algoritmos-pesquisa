@@ -1,11 +1,11 @@
 package com.algoritmos.domain;
 
-// Métodos comuns aos algoritmos de ordenação.
+// métodos comuns aos algoritmos de ordenação
 public interface SortAlgoritmo {
     String name();
     void sort(int[] values, Metrics metrics);
 
-    // Ordena o trecho do vetor informado.
+    // ordena o trecho do vetor informado.
     default void sort(int[] values, int length, Metrics metrics) {
         if (length < 0 || length > values.length) throw new IllegalArgumentException("Tamanho inválido: " + length);
         if (length == values.length) { sort(values, metrics); return; }

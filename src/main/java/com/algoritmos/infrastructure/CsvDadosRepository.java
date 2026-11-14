@@ -7,7 +7,7 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 
-// Leitura dos arquivos CSV usados pelo programa.
+// leitura dos arquivos CSV usados pelo programa
 public final class CsvDadosRepository {
     public int idColumn(String header, char delimiter) throws IOException {
         List<String> columns = parseLine(header, delimiter);

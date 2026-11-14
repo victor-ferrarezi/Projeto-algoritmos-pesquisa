@@ -7,7 +7,7 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 
-// Monta um resumo com os principais resultados dos testes.
+//monta um resumo com os principais resultados dos testes
 public final class SumarioService {
     public Path generate(Path resultsDir) throws IOException {
         Path searchFile = resultsDir.resolve("resultados_busca.csv");

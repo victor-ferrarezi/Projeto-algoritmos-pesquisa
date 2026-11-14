@@ -138,7 +138,6 @@ public final class ExperimentService {
             w.println("n,posicao,estrategia,reps,tempo_medio_us,tempo_mediana_us,desvio_us");
             for (int n : new int[]{1_000, 10_000}) {
                 int[] base = readExpected(dataDir.resolve("base_" + n + "_ordenada.csv"), n);
-                // Ao dobrar os IDs, sobra um número entre cada par para fazer as inserções.
                 for (int i = 0; i < base.length; i++) base[i] = Math.multiplyExact(base[i], 2);
                 for (int p = 0; p < names.length; p++) {
                     int key;
@@ -286,8 +285,6 @@ public final class ExperimentService {
         int n = 10_000;
         int batch = 100;
         int[] base = readExpected(dataDir.resolve("base_" + n + "_ordenada.csv"), n);
-
-        // A escala deixa um número livre entre dois IDs consecutivos.
         for (int i = 0; i < base.length; i++) base[i] = Math.multiplyExact(base[i], 2);
 
         Random random = new Random(11);

@@ -2,7 +2,7 @@ package com.algoritmos;
 
 import com.algoritmos.ui.ConsoleMenu;
 
-// Ponto de entrada do programa.
+//ponto de entrada do programa
 public final class App {
     private App() {
     }

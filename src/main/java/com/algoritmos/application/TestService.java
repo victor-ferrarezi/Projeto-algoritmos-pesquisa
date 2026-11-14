@@ -7,7 +7,7 @@ import com.algoritmos.domain.SortAlgoritmo;
 import java.util.Arrays;
 import java.util.Random;
 
-// Faz alguns testes para conferir se as buscas e ordenações estão corretas.
+// Faz alguns testes para conferir se as buscas e ordenações estão corretas
 public final class TestService {
     public boolean run() {
         boolean allOk = true;
